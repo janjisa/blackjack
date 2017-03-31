@@ -1,2 +1,5 @@
+
 # blackjack
-funkce_Hanka=neumim_s_gitem
+# funkce_Hanka=umim_s_gitem
+
+# blackjack aka BJ
